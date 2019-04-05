@@ -2,9 +2,11 @@ Its front end developed in ReactJS for GoodReads book search by title and see pa
 
 Snapshots of the running app can be found in "Output" word document. 
 
+<b>Working Application</b>  :-  https://trujan34.github.io/GoodReadsFE-Heroku/
+
 Steps to run this.
 
-First Run the code in "GoodReadsAPI" Repository. follow steps in its README.md.
+Steps To Run Application in Local Environment :- 
 
 1. clone on your local machine.
 2. go to cloned directory from Command Prompt
